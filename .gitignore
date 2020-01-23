@@ -1,0 +1,14 @@
+.vs
+.vs/*
+Logs/
+Logs/*
+obj
+obj.*
+Packages/
+Packages/*
+Temp/
+Temp/*
+ProjectSettings/
+ProjectSettings/*
+*.apk
+*.csproj
